@@ -3,5 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-I am interested in the cognitive mechanisms engaged in the processing of grammatical variation. There is an intuitive notion that processing a less familiar dialect or switching between dialects is "difficult," and my research seeks a mechanistic account of such difficulty. In particular, I appeal to cognitive control mechanisms engaged to navigate competing linguistic representations. I am also interested in the long-term impact of exposure to multiple dialects, with an applied focus on the acquisition of non-mainstream dialects and the impact of exposure to the standard variety in school.
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
+Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
