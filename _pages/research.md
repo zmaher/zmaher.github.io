@@ -18,4 +18,4 @@ Maher, Z., Erskine, M., Byrd, A., & Edwards, J. (2021). Evaluating the influence
 
 Maher, Z. and Edwards, J. (2019). Changes in attitudes toward variation in teachers of a code-switching curriculum. New Ways of Analyzing Variation. Eugene, OR. ([View materials](https://umd.app.box.com/s/i6t0rcx0pgqgf7irhkeov002ccdmhxi4))
 
-Erskine, M., Z. Maher, and J. Edwards (2019). "Dialect mismatch influences sentence emph{not} lexical comprehension in young children." Symposium for Research in Child Language Disorders. 
+Erskine, M., Z. Maher, and J. Edwards (2019). "Dialect mismatch influences sentence *not* lexical comprehension in young children." Symposium for Research in Child Language Disorders. 
