@@ -4,7 +4,7 @@ title: "Research"
 ---
 
 ## Publications
-Maher, Z., Erskine, M., Byrd, A., Harring, J., & Edwards, J. (in press). African American English and early literacy: A comparison of approaches to quantifying nonmainstream dialect use. *Language, Speech, and Hearing Services in Schools.*
+Maher, Z., Erskine, M., Byrd, A., Harring, J., & Edwards, J. (2021). [African American English and early literacy: A comparison of approaches to quantifying nonmainstream dialect use](https://pubs.asha.org/doi/abs/10.1044/2020_LSHSS-19-00115). *Language, Speech, and Hearing Services in Schools, 52*(1), 118-130.
 
 ## Presentations
 Erskine, M., A. Byrd, Z. Maher, K. Oppenheimer, and J. Edwards (2019). "Expanding your Toolbox: Strategies to Support Linguistically Diverse Students." ASHA Convention. Orlando, FL. 
