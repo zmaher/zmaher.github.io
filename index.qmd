@@ -1,0 +1,27 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/Maher_headshot_2023.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/zmaher
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zmaher/
+    - icon: envelope
+      text: Email
+      href: "mailto:maher@psu.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Hi, I'm Zach. Welcome to my website!
+
+I am a language scientist and NSF-SPRF Postdoctoral Fellow at Penn State, where I am a member of the [Bilingualism and Linguistic Diversity Lab](https://bild.la.psu.edu/). I'm interested in how people navigate a world that is filled with language variation. Most of my work focuses on morphosyntactic (grammatical) variation, including differences between [African American Language](https://oraal.uoregon.edu) (AAL) and Mainstream ("Standard") American English. 
+
+My primary work frames variation as a cognitive phenomenon, asking how people represent and process morphosyntactic differences across language varieties (dialects). I have used a variety of methods to address this question, including eye-tracking and various behavioral measures, and in my post doc, I'm using EEG. In other work, I have studied the effects of a sociolinguistically-informed intervention, examining its impact on AAL-speaking children's reading growth and their teachers' language ideologies.
+
+I received my Ph.D. from the University of Maryland, where I was advised by Jan Edwards and Jared Novick, and I completed my B.A. and M.A. in Linguistics at Yale, where I was a founding member of the [Yale Grammatical Diversity Project](https://ygdp.yale.edu/).
