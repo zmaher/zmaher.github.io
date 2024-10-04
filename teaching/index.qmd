@@ -1,0 +1,39 @@
+---
+title: Teaching
+---
+
+As a cognitive scientist specializing in language variation, I view teaching as an integral part of my scholarly work. My courses challenge students to apply empirical evidence and analytical reasoning to questions of human experience, particularly those related to linguistic diversity. This approach not only prepares students for careers in cognitive science and related fields but also informs my research by generating new questions and perspectives. Whether in the context of a classroom or hands-on research experience, I am committed to fostering an inclusive environment where students from all backgrounds can engage critically with language and cognition.
+
+## Key Experiences
+
+### Formal Teaching Responsibilities
+- LING460: Diversity and Unity in Human Languages [Intro. Sociolinguistics], University of Maryland (Spring 2022)
+  - Instructor of Record
+- PULSAR (Program for Undergraduate Language Science Ambassadors in Research), University of Maryland (Spring, Fall 2019)
+  - Graduate Fellow
+  - Met with students twice per semester for individual mentorship
+  - Led 1-2 class sessions per semester on topics in research, such as reference management and crowdsourced studies
+
+### Guest Lecturer
+- LING410: Morphology - "Morphology of African American Language", Penn State University (Fall 2024)
+- HESP 724: Research Design - "Inferential Statistics and Power Analysis", University of Maryland (Spring 2020, 2021)
+- ARHU158: Explorations in Arts and Humanities - "The evolution of language has real world impact", University of Maryland (Fall 2018)
+
+### Mentoring
+- Undergraduate Thesis Advisor, University of Maryland Department of Hearing and Speech Sciences (2022-2023)
+- Project RISE Graduate Student Mentor (2019-2020)
+  - A paid research fellowship for undergraduate students designed to increase diversity in the pool of students who pursue doctoral studies in fields related to language and literacy
+  - Mentored student project on African American Language
+  - Gave guest lecture on language variation (Summer 2018)
+
+### Other Teaching Experience
+- Penn State Center for Language Science, Language and Linguistics Day Speaker (2024)
+  - Gave lecture on linguistic diversity to 90 local high school students and their teachers
+  - Prepared and facilitated interactive activities analyzing linguistic data
+- UMD Language Science Center Winter Storm, Session Organizer (2020-2021)
+  - Two-week intensive language science professional development program
+  - Led workshop on using git and github (January 2021)
+  - Led workshop on eye-tracking data analysis (January 2020)
+  - Led planning sessions for dialect diversity initiative (January 2020)
+- The Fulbright Program, English Teaching Assistant in Berlin (Sept. 2013 – June 2014)
+  - Taught and assistant-taught English courses (grades 3–10) to German students and recent immigrants at a special education school for students with conduct disorders
