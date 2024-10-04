@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/Maher_headshot_2023.jpg"
+  image: "img/maher_headshot.jpeg"
   links:
     - icon: github
       text: Github
