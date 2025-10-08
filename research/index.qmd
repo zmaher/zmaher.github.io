@@ -8,16 +8,18 @@ title: Research
 
 ## Manuscripts
 
-Maher, Z., J. Edwards, C. Vaughn, and J. Novick (under review). [Listeners expect grammatical variation across dialects](https://osf.io/eqvm7).
+Maher, Z., J. Edwards, C. Vaughn, and J. Novick (under revision). [Listeners expect grammatical variation across dialects](https://osf.io/eqvm7).
 
 Maher, Z., J. Edwards, and J. Novick (in prep). Interpretation of morphosyntactic variation across groups and speakers.
 
-Giorio, C., Z. Maher, and J.G. van Hell (in prep). Perceptions of Spanish dialects.
+Maher, Z., and J.G. van Hell (in prep). The cognition of dialect variation: Adapting insights and approaches from bilingualism.
+
+Giorio, C., Z. Maher, and J.G. van Hell (in prep). Dialect perception at scale: Categorization of Spanish dialects across listener groups.
 
 
 ## Publications
-
-Maher, Z., C. Blomquist, A. Byrd, K. Oppenheimer, E. Terrell Shockley, T.C. Thonesevanh, C. Mazzei, J. Harring, and J. Edwards (under revision). [Does a dialect-shifting curriculum help early readers who speak African American English? Results from a randomized controlled study](https://rdcu.be/dUTgW). *Reading and Writing*.
+ 
+Maher, Z., C. Blomquist, A. Byrd, K. Oppenheimer, E. Terrell Shockley, T.C. Thonesevanh, C. Mazzei, J. Harring, and J. Edwards (2025). [Does a dialect-shifting curriculum help early readers who speak African American English? Results from a randomized controlled study](https://doi.org/10.1007/s11145-024-10576-x). *Reading and Writing 38* (7), 2109–2129.
 
 Maher, Z., C. Mazzei, T.C. Thonesevanh, E. Terrell Shockley, and J. Edwards (2024). [Multiple approaches to "appropriateness": A mixed-methods study of elementary teachers’ dispositions toward African American Language as they teach a dialect-shifting curriculum.](https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.554) *Reading Research Quarterly 59*(3), 468-486.
 
@@ -25,7 +27,7 @@ Maher, Z., M. Erskine, A. Byrd, J. Harring, & J. Edwards (2021). [African Americ
 
 ## Presentations
 
-Maher, Z., J. Edwards, and J. Novick (2023). Morphosyntax plays a unique role in listeners’ expectations about minoritized language. Annual Conference on Human Sentence Processing. University of Michigan. Ann Arbor, MI.
+Maher, Z., J. Edwards, and J. Novick (2024). Morphosyntax plays a unique role in listeners’ expectations about minoritized language. Annual Conference on Human Sentence Processing. University of Michigan. Ann Arbor, MI.
 
 Maher, Z., J. Edwards, and J. Novick (2023). Real-time interpretation of morphosyntactic variation across varieties and listeners. New Ways of Analyzing Variation. New York, NY.
 
@@ -44,6 +46,13 @@ Maher, Z. and Edwards, J. (2019). "Non-linguistic inhibition predicts lexical in
 Huang, N., Z. Maher, S. Matyiku and R. Zanuttini (2011). "Toward an atlas of micro-syntactic variation in varieties of English." LSA Annual Meeting, Pittsburgh, PA.
 
 ## Posters
+
+Maher, Z., and J.G. van Hell (2025). They Was Adjusting to Different Dialects: An ERP Study of Morphosyntactic Processing Across Dialects and Listeners. Psychonomic Society Annual Meeting. Denver, CO.
+
+Maher, Z. and J.G. van Hell (2025). Measuring passive exposure to African American Language: Developing the Musical Artist Recognition Task. Cognitive neuroscience of individual differences in adult language learning: Future directions. University of Illinois, Chicago, IL.
+
+Maher, Z. and J.G. van Hell (2025). Agreement processing across African American Language and Dominant American English: An ERP Study. Annual Conference on Human Sentence Processing. University of Maryland, College Park.
+
 
 Maher, Z., J. Edwards, and J. Novick (2023). Real-Time Grammatical Interpretation Across Dialects and Listeners. Psychonomic Society Annual Meeting. San Francisco, CA.
 
