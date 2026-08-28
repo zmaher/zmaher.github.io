@@ -6,19 +6,12 @@ title: Research
 
 "Knowledge and processing of morphosyntactic variation in African American Language and Mainstream American English" (Download [here](Maher2023_Dissertation.pdf))
 
-## Manuscripts
-
-Maher, Z., J. Edwards, C. Vaughn, and J. Novick (under revision). [Listeners expect grammatical variation across dialects](https://osf.io/eqvm7).
-
-Maher, Z., J. Edwards, and J. Novick (under review). Interpretation of morphosyntactic variation across dialect backgrounds.
-
-Giorio, C., Z. Maher, and J.G. van Hell (submitted). Dialect perception at scale: Categorization of Spanish dialects across listener groups.
-
-Maher, Z., and J.G. van Hell (in prep). The cognition of dialect variation: Adapting insights and approaches from bilingualism.
-
-
 
 ## Publications
+
+Maher, Z., J. Edwards, C. Vaughn, and J. Novick (in press). [Listeners expect grammatical variation across dialects](https://osf.io/eqvm7). *Journal of Experimental Psychology: Learning, Memory, and Cognition*.
+
+Maher, Z., and J.G. van Hell (2026). [The cognition of dialect variation: Adapting insights and approaches from bilingualism.](https://doi.org/10.3389/flang.2026.1784593) *Frontiers in Language Sciences.*
  
 Maher, Z., C. Blomquist, A. Byrd, K. Oppenheimer, E. Terrell Shockley, T.C. Thonesevanh, C. Mazzei, J. Harring, and J. Edwards (2025). [Does a dialect-shifting curriculum help early readers who speak African American English? Results from a randomized controlled study](https://doi.org/10.1007/s11145-024-10576-x). *Reading and Writing 38* (7), 2109–2129.
 

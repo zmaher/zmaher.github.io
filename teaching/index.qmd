@@ -2,11 +2,12 @@
 title: Teaching
 ---
 
-As a cognitive scientist specializing in language variation, I view teaching as an integral part of my scholarly work. My courses challenge students to apply empirical evidence and analytical reasoning to questions of human experience, particularly those related to linguistic diversity. This approach not only prepares students for careers in cognitive science and related fields but also informs my research by generating new questions and perspectives. Whether in the context of a classroom or hands-on research experience, I am committed to fostering an inclusive environment where students from all backgrounds can engage critically with language and cognition.
+I teach a variety of courses in linguistics, psychology, and cognitive science.
 
 ## Key Experiences
 
-### Formal Teaching Responsibilities
+### Previous courses
+- ENGL3134: Gender and Linguistics, Virginia Tech (Spring 2026)
 - LING460: Diversity and Unity in Human Languages [Intro. Sociolinguistics], University of Maryland (Spring 2022)
   - Instructor of Record
 - PULSAR (Program for Undergraduate Language Science Ambassadors in Research), University of Maryland (Spring, Fall 2019)
